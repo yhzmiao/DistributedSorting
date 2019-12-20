@@ -1,0 +1,6 @@
+das5=true
+datasize=100000000
+faulttolerant=false
+daytona=false
+road=/var/scratch/dsys1906/
+node=6
